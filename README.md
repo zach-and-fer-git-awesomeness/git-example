@@ -1,1 +1,1 @@
-# Git Branching On Todays lesson!
+# Git Branching!
